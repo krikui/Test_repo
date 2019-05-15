@@ -12,6 +12,6 @@ python app6.py
 
 
 
-##Implementation
+## Implementation
 
 This proj is implemented w/ Flask and REST API for a store.
